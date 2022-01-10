@@ -1,0 +1,19 @@
+{
+  "name": "maquetacion-mobile-platzi",
+  "version": "1.0.0",
+  "description": "course of platzi, mobile first",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivanosquis10/batabit-web-course.git"
+  },
+  "author": "Ivannosquis <ivanosquis02.08@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivanosquis10/batabit-web-course/issues"
+  },
+  "homepage": "https://github.com/ivanosquis10/batabit-web-course#readme"
+}
